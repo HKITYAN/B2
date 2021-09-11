@@ -11,8 +11,7 @@
     "@types/node": "^16.6.1",
     "@types/react": "^17.0.18",
     "@types/react-dom": "^17.0.9",
-    "antd": "^4.16.12",
-    "craco-antd": "^1.19.0",
+    "antd-mobile": "^2.3.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@w3ctech-editorial-department/craco-antd-mobile": "^1.0.3"
   }
 }
